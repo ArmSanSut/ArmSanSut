@@ -69,7 +69,7 @@
         <p style = "margin : 15px">&nbsp
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=armsansut&show_icons=true&locale=en" alt="armsansut" />
         </p>
-        <p style = "margin : 15px">
+        <p style = "margin : 5px">
                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armsansut&" alt="armsansut" />
         </p>
 
