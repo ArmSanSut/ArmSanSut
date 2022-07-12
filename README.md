@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inarm Sansutnanont</h1>
+<h2 align="center">A Full-Stack Developer from Thailand</h2>
 
 <h3 align="center">A Biomedical Engineer who's passionate in coding, that's why I'm transfering my career path to Full-Stack Developer</h3>
 
@@ -59,8 +60,25 @@
      
 </p>
 
+## GitHub Statistical
+
+<p align="center" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armsansut&show_icons=true&locale=en&layout=compact" alt="armsansut" />
+</p>
+<div style= "display: flex; flex-direction: row; justify-content : center; align-items: center">
+        <p style = "margin : 15px">&nbsp
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=armsansut&show_icons=true&locale=en" alt="armsansut" />
+        </p>
+        <p style = "margin : 15px">
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armsansut&" alt="armsansut" />
+        </p>
+
+</div>
+
+
+
 ## My Project
 
-- [Talently : Personal Assessment](http://54.179.56.185/)
+- [ Talently : Personal Assessment](http://54.179.56.185/)
 
 
