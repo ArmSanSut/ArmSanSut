@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Inarm Sansutnanont</h1>
-<h2 align="center">A Full-Stack Developer from Thailand</h2>
+<h1 align="center">Hi Everyone👋, I'm Inarm Sansutnanont</h1>
+<h3 style= "color : #000080" align="center">A Full-Stack Developer from Thailand</h3>
 
-<h3 align="center">A Biomedical Engineer who's passionate in coding, that's why I'm transfering my career path to Full-Stack Developer</h3>
+<div style= " margin : 20px; margin-Top : 20px; display : flex; justify-content : center; align-items : center">
+        <h4 style = "text-align : center; width : 400px; height : 100px; margin-right : 20px;  transform : translateY(25%)">I am a Biomedical Engineer who's passionate in coding, that's why I'm changing my career path to Full-Stack Developer</h4>
+        <h4 style = "font-style : italic; width : 400px; height : 100px; margin-left : 20px;">“If you’re the kind of person who has no guts, you just give up every time life pushes you. If you’re that kind of person, you’ll live all your life playing it safe, doing the right things, saving yourself for something that never happens. Then, you die a boring old man.” -- Robert Kiyosaki</h4>
+</div>
 
 <p align="center">
     <img  width = "650px"  src ="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"/>
@@ -65,7 +68,7 @@
 <p align="center" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armsansut&show_icons=true&locale=en&layout=compact" alt="armsansut" />
 </p>
-<div style= "display: flex; flex-direction: row; justify-content : center; align-items: center">
+<div style= "display: flex; flex-direction: column; justify-content : center; align-items: center">
         <p style = "margin : 15px">&nbsp
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=armsansut&show_icons=true&locale=en" alt="armsansut" />
         </p>
