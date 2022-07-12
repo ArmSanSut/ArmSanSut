@@ -69,10 +69,10 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armsansut&show_icons=true&locale=en&layout=compact" alt="armsansut" />
 </p>
 <div style= "display: flex; flex-direction: column; justify-content : center; align-items: center">
-        <p style = "margin : 15px">&nbsp
+        <p style = "margin : 15px" align = "center">&nbsp
                 <img align="center" src="https://github-readme-stats.vercel.app/api?username=armsansut&show_icons=true&locale=en" alt="armsansut" />
         </p>
-        <p style = "margin : 5px">
+        <p style = "margin : 5px" align = "center">
                 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armsansut&" alt="armsansut" />
         </p>
 
