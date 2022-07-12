@@ -80,5 +80,10 @@
 ## My Project
 
 - [ Talently : Personal Assessment](http://54.179.56.185/)
+<div>
+        <img src = "https://github.com/ArmSanSut/ArmSanSut/blob/master/images/1657594553445.jpg"/>
+        <img src = "https://github.com/ArmSanSut/ArmSanSut/blob/master/images/1657594583225.jpg"/>
+        <img src = "https://github.com/ArmSanSut/ArmSanSut/blob/master/images/1657594611676.jpg" />
+</div>
 
 
