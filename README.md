@@ -2,8 +2,8 @@
 <h3 style= "color : #000080" align="center">A Full-Stack Developer from Thailand</h3>
 
 <div style= " margin : 20px; margin-Top : 20px; display : flex; justify-content : center; align-items : center">
-        <h4 style = "text-align : center; width :"600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">I am a Biomedical Engineer who's passionate in coding, that's why I'm changing my career path to Full-Stack Developer</h4>
-        <h4 style = "font-style : italic; width :"600px; height : 100px; margin-left : 20px;">“If you’re the kind of person who has no guts, you just give up every time life pushes you. If you’re that kind of person, you’ll live all your life playing it safe, doing the right things, saving yourself for something that never happens. Then, you die a boring old man.” -- Robert Kiyosaki</h4>
+        <h4 style = "text-align : center; width : 600px; height : 100px; margin-right : 20px;  transform : translateY(25%)">I am a Biomedical Engineer who's passionate in coding, that's why I'm changing my career path to Full-Stack Developer</h4>
+        <h4 style = "font-style : italic; width :600px; height : 100px; margin-left : 20px;">“If you’re the kind of person who has no guts, you just give up every time life pushes you. If you’re that kind of person, you’ll live all your life playing it safe, doing the right things, saving yourself for something that never happens. Then, you die a boring old man.” -- Robert Kiyosaki</h4>
 </div>
 
 <p align="center">
